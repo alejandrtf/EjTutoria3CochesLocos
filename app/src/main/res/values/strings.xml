@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EjTutoria3CochesLocos</string>
+    <string name="titulo">CARRERA DE COCHES LOCOS</string>
+    <string name="jugar">JUGAR</string>
+    <string name="configurar">CONFIGURAR</string>
+    <string name="acercaDe">ACERCA DE...</string>
+    <string name="labelNumeroCoches">Nº de coches del juego</string>
+    <string name="labelMaxTamanioCoche">Máximo tamaño del coche</string>
+    <string name="direccionAleatoria">Dirección Aleatoria?</string>
+    <string name="anguloAleatorio">Ángulo Aleatorio?</string>
+    <string name="guardarConfiguracion">GUARDAR CONFIGURACIÓN</string>
+</resources>
